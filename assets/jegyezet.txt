@@ -1,0 +1,14 @@
+
+Program:Mire vagy képes egy LEGO robottal-Tréningstúdió ----> Melyik épületben van a tréningstúdió?
+Program:Szóbeli Origó és Zöld Út próbanyelvvizsga-NÉMET, ANGOL,javasolt: Helyszín1 kisebb terem  (német)+2 kisebb v. egy közepes terem (angol) ---> melyik épület, melyik terem?
+Program:Kultúrák találkozása: Német nyelvű országok, javasolt Helyszín:egy kisebb terem ---> melyik épület, melyik terem?
+"Program": "A Zöld Út új általános nyelvvizsga bemutatása",    "javasoltHelyszin": "egy kisebb terem (lehet ugyanott, ahol utána próbavizsgáztatunk)", ---> -||-
+Program": "Kultúrák találkozása: Angol nyelvű országok","javasoltHelyszin": "egy (kisebb) terem, akár más nyelvekkel együtt", ---> -||-
+"Program": "Szelfizz "Habsárkánnyal",javasoltHelyszin": "PUR Laboratórium ---> melyik épület?
+"Program": "Ilyen a katonaélet", "leiras": "A Honvédség Miskolci Toborzó Irodájának bemutatása" ---> melyik épület melyik terem?
+"intezmeny": "Robert Bosch Power Tools Kft."  ---> melyik terem melyik épület?
+"intezmeny": "S.E.G.A.", ---> melyik terem melyik épület?
+"Program": "RETRO autóbuszok","leiras": "IKARUS 620 és IKARUS 31. autbuszok külön menetrend szerinti, ingyenes közlekedése" ---> melyik terem melyik épület?
+Új AVK PROGRAM: Érmenyomás, Válassz egy mintát és készíts saját érmét pillanatok alatt! , 17:00-20:00 folyamatosan --> melyik terem melyik épület?
+Bűnmegelőzés - balesetmegelőzés, „Közlekedj és nyomozz velünk!” program keretében kipróbálhatod a virtuális térben egy motoros szimuláció segítségével, hogy milyen következménnyel jár a közlekedési szabályok be nem tartása, valamint a nyomozás rejtelmeibe is betekintést kaphatsz. A program a Borsod-Abaúj-Zemplén Vármegyei Rendőrfőkapitányság közreműködésével valósul meg., --> Hol mikor?
+Minoria and Majoria: Ways of working with people from other cultures Díszaula --> Nincs időtartam
